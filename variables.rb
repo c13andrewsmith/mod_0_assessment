@@ -4,6 +4,6 @@ famous_person = "Cher"
 num_3 = 3
 num_9 = 9
 sum = num_3 + num_9
-animals = ["lions", "tigers", "bears"]
+animals = ["lions", "tigers", "dogs"]
 animals.shift
 puts famous_person.length
